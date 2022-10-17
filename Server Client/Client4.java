@@ -68,7 +68,7 @@ class Client4 extends Frame implements Runnable, ActionListener {
 		else {
 			SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 			Date date = new Date();
-			str = formatter.format(date) + "\n" + t2.getText();
+			str = "\n"+formatter.format(date) + "\n" + t2.getText();
 			try {
 				dos.writeUTF(str);
 			} catch (Exception e2) {
