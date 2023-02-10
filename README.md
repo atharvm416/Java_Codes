@@ -1,11 +1,10 @@
 # Java_Codes
 Contains Java with different style and formats
 # 1. Bouncing Ball:
-* The program is made up of multiple threads where, whenever the user creates a new object, an oval-shaped ball with a random colour is displayed on the screen. The ball or object will only move within the frame's size. The ball begins on the left side, moves along the left side, and bounces off the screen, which has a frame size of 600 by 600. To visualise it properly, "sleep" is used to pause the thread for a second, and its properties make it very easy to set the motion as well.
-![Screenshot (615)](https://user-images.githubusercontent.com/112277897/217444241-cfd5c72a-5556-4f98-aa45-06c6159130d2.png)
-![Screenshot (613)](https://user-images.githubusercontent.com/112277897/217444230-ef5a42fe-a35f-49f1-864a-f98df7d965a2.png)
-![Screenshot (614)](https://user-images.githubusercontent.com/112277897/217444240-27ae2b48-3b13-4047-9598-e3d01858ebf7.png)
-#2. Students record maintainence:
+* The program is made up of multiple threads where, whenever the user creates a new object, an oval-shaped ball with a random colour is displayed on the screen. The ball or object will only move within the frame's size. The ball begins on the left side, moves along the left side, and bounces off the screen, which has a frame size of 600 by 600. To visualise it properly, "sleep" is used to pause the thread for a second, and its properties make it very easy to set the motion as well. In the following images, the balls are actually bouncing on the edges. Due to a technical issue, when you play the code in full screen, the oval ball or object will get printed on the edges of the bounced ball when it gets in contact.
+![Screenshot (626)](https://user-images.githubusercontent.com/112277897/218144206-9c9e3956-0a7f-4889-9e6b-9190a701e6bb.png)
+![Screenshot (627)](https://user-images.githubusercontent.com/112277897/218144211-ad6327dd-ea6f-48df-af73-b4038c9a8525.png)
+# 2. Students record maintainence:
 * The program contains the 'mypkg' package, from which we are using 'JOptionPane' methods to define a window directly. The data of the students is stored in the Stu2122.dat file. This file is accessed by using FileOutputStream and ObjectOutputStream & FileInputStream and ObjectInputStream to write and read. The programme has four main functions: adding, modifying, deleting, and displaying data.
 ![Screenshot (616)](https://user-images.githubusercontent.com/112277897/217444244-0bcf2f75-cf9b-4db0-b848-cbd726d052c1.png)
 ![Screenshot (617)](https://user-images.githubusercontent.com/112277897/217444245-3d39d499-b5c5-4ecd-8ea2-6abec11ee72a.png)
