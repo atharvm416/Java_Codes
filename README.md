@@ -25,5 +25,5 @@ Contains Java with different style and formats
       * start RMIClient1
       * java RMIClient1
      ```
-We will now receive a new number each time we run Java RMIClient1. 
+We will now receive a new number each time we run Java RMIClient1 as shown below.
 ![Screenshot (625)](https://user-images.githubusercontent.com/112277897/217444361-d2f51e64-b0d9-49f8-9a20-7218387f2a61.png)
